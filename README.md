@@ -121,7 +121,6 @@ This dataset combines:
 - Demographic and socioeconomic data from US Census and related sources
 - Atmospheric reanalysis data from CAMS (Copernicus Atmosphere Monitoring Service)
 - Environmental variables from ECMWF ERA5 reanalysis
-- USDA livestock census data
 
 ## Use Cases
 
